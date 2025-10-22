@@ -77,15 +77,15 @@ p{
 }
 
 .light1{
-  background-color: ;
+  background-color: hsl(0, 60%, 0%);
 }
 
 .light2{
-  background-color: ;
+  background-color: hsl(0, 60%, 50%);
 }
 
 .light3{
-  background-color: ;
+  background-color: hsl(0, 60%, 100%);
 }
 
 .row {
