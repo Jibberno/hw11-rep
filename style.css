@@ -57,11 +57,11 @@ p{
 }
 
 .hue1 {
-  background-color: ;
+  background-color: hsl(60, 60%, 34%);
 }
 
 .hue2 {
-  background-color: ;
+  background-color: hsl(240, 60%, 34%);
 }
 
 .sat1 {
