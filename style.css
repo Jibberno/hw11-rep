@@ -20,7 +20,7 @@ body {
   width: 100vw;
 }
 
-p{
+p {
   width: 100px;
   height: 100px;
 }
@@ -57,8 +57,7 @@ p{
 }
 
 .hsl {
-  font-family: 'Silkscreen', cursive
-  background-color: hsl(0, 60%, 34%);
+  font-family: 'Silkscreen', cursive background-color: hsl(0, 60%, 34%);
   color: hsl(0, 0%, 95%);
   border: 5px solid hsl(0, 87%, 59%);
   color: hsla(0, 0%, 95%, .8)
@@ -84,15 +83,15 @@ p{
   background-color: hsl(0, 0%, 34%);
 }
 
-.light1{
+.light1 {
   background-color: hsl(0, 60%, 0%);
 }
 
-.light2{
+.light2 {
   background-color: hsl(0, 60%, 50%);
 }
 
-.light3{
+.light3 {
   background-color: hsl(0, 60%, 100%);
 }
 
@@ -100,6 +99,6 @@ p{
   margin-bottom: 10px;
 }
 
-.row p{
- display: inline-block;
+.row p {
+  display: inline-block;
 }
